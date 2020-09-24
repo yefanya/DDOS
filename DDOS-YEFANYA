@@ -15,4 +15,4 @@ try:
        print("send virus to" + ip + "port" + port)
    sleep(0.05)
 except KeyboardInterrupt:
-print("berhasil")
+        print("berhasil")
